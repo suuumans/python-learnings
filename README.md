@@ -4,9 +4,9 @@
 This repository contains a collection of Python scripts designed to help beginners learn the fundamentals of Python programming. Each script addresses basic problem or challenge, providing practical examples of how to implement solutions in Python.
 
 ## Project Structure
-- `solutions/`: Contains the solutions to if-else problems in python.
+- `conditionals/`: Contains the questions and solutions to if-else problems in python.
+- `loops/`: Contains the questions and solutions to loop problems in python.
 - `README.md`: This file, providing an overview of the project.
-- `questions.md`: Contains the list of problems and challenges being solved.
 
 ## Challenges Included
 1. **Leap Year Checker**: Determines if a given year is a leap year.
