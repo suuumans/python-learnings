@@ -5,6 +5,7 @@ This repository contains a collection of Python scripts designed to help beginne
 
 ## Project Structure
 - `conditionals/`: Contains the questions and solutions to if-else problems in python.
+- `functions/`: Contains the questions and solutions to function problems in python.
 - `loops/`: Contains the questions and solutions to loop problems in python.
 - `README.md`: This file, providing an overview of the project.
 
