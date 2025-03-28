@@ -123,6 +123,9 @@ class Engine:
         return "This is engine"
 
 class ElectricCarTwo(Car, Battery, Engine):
+    pass
 
 
-my_second_electric_car = ElectricCarTwo('Porsche', 'Tycan Turbo', '75kWh')
+my_second_electric_car = ElectricCarTwo('Porsche', 'Tycan Turbo')
+print(my_second_electric_car.battery_info())
+print(my_second_electric_car.engine_info())
