@@ -10,6 +10,7 @@ This repository contains a collection of Python scripts designed to help beginne
 - `oop/`: Contains the questions and solutions to object oriented programming problems in python.
 - `decorators/`: Contains the questions and solutions to decorator problems in python.
 - `error_handling/`: Contains the first small project in python.
+- `db_sqlite/`: Conatains the fist small project with sqlite3.
 - `README.md`: This file, providing an overview of the project.
 
 ## Challenges Included
