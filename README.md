@@ -11,6 +11,7 @@ This repository contains a collection of Python scripts designed to help beginne
 - `decorators/`: Contains the questions and solutions to decorator problems in python.
 - `error_handling/`: Contains the first small project in python.
 - `db_sqlite/`: Conatains the fist small project with sqlite3.
+- `handling-api/`: Contains [api](https://freeapi.app/) handling in python.
 - `README.md`: This file, providing an overview of the project.
 
 ## Challenges Included
